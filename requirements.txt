@@ -7,6 +7,7 @@ hgtools==6.3
 keyring==5.3
 iminuit==1.1.1
 emcee==2.1.0
+pytz==2015.4
 ## affiliated packages
 astropy-helpers==1.0.3
 astroquery==0.2.6
